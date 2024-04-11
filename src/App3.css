@@ -1,0 +1,22 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+.flex-container {
+    display: flex;
+}
+
+.nav-tree {
+    width: 100%;
+    margin-right: 5rem;
+}
+
+.nav-tree div {
+    white-space: nowrap;
+}
+
+.node-details {
+    width: 100%;
+}
